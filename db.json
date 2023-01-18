@@ -1,0 +1,109 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": "100.00",
+      "source": "./images/food-images/menu-1.jpg",
+      "imagename": "product1"
+    },
+    {
+      "id": 2,
+      "name": "Sandwich",
+      "price": "107.00",
+      "source": "./images/food-images/menu-2.jpg",
+      "imagename": "product2"
+    },
+    {
+      "id": 3,
+      "name": "Bread",
+      "price": "150.00",
+      "source": "./images/food-images/menu-3.jpg",
+      "imagename": "product3"
+    },
+    {
+      "id": 4,
+      "name": "Steak",
+      "price": "139.00",
+      "source": "./images/food-images/menu-4.jpg",
+      "imagename": "product4"
+    },
+    {
+      "id": 5,
+      "name": "Tuna Steak",
+      "price": "78.00",
+      "source": "./images/food-images/menu-5.jpg",
+      "imagename": "product5"
+    },
+    {
+      "id": 6,
+      "name": "Ice cream",
+      "price": "50.00",
+      "source": "./images/food-images/menu-6.jpg",
+      "imagename": "product6"
+    },
+    {
+      "id": 7,
+      "name": "Salad",
+      "price": "89.00",
+      "source": "./images/food-images/menu-7.jpg",
+      "imagename": "product7"
+    },
+    {
+      "id": 8,
+      "name": "Drink",
+      "price": "61.00",
+      "source": "./images/food-images/menu-8.jpg",
+      "imagename": "product8"
+    },
+    {
+      "id": 9,
+      "name": "Shrimp",
+      "price": "123.00",
+      "source": "./images/food-images/menu-9.jpg",
+      "imagename": "product9"
+    },
+    {
+      "id": 10,
+      "name": "Pizza",
+      "price": "130.00",
+      "source": "./images/food-images/menu-4.jpg",
+      "imagename": "product10"
+    },
+    {
+      "id": 11,
+      "name": "Sandwich",
+      "price": "125.00",
+      "source": "./images/food-images/menu-5.jpg",
+      "imagename": "product11"
+    },
+    {
+      "id": 12,
+      "name": "Bread",
+      "price": "120.00",
+      "source": "./images/food-images/menu-6.jpg",
+      "imagename": "product12"
+    },
+    {
+      "id": 13,
+      "name": "Steak",
+      "price": "70.00",
+      "source": "./images/food-images/menu-7.jpg",
+      "imagename": "product13"
+    },
+    {
+      "id": 14,
+      "name": "Tuna Steak",
+      "price": "92.00",
+      "source": "./images/food-images/menu-8.jpg",
+      "imagename": "product14"
+    },
+    {
+      "id": 15,
+      "name": "Shrimp",
+      "price": "60.00",
+      "source": "./images/food-images/menu-9.jpg",
+      "imagename": "product15"
+    }
+  ]
+}
