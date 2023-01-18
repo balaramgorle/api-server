@@ -5,35 +5,35 @@
       "name": "Pizza",
       "price": "100.00",
       "source": "./images/food-images/menu-1.jpg",
-      "imagename": "product1"
+      "imagename": "This cake tastes like it has cheese in it."
     },
     {
       "id": 2,
       "name": "Sandwich",
       "price": "107.00",
       "source": "./images/food-images/menu-2.jpg",
-      "imagename": "product2"
+      "imagename": "I always have a boiled egg for breakfast."
     },
     {
       "id": 3,
       "name": "Bread",
       "price": "150.00",
       "source": "./images/food-images/menu-3.jpg",
-      "imagename": "product3"
+      "imagename": "You can substitute oil for butter in this recipe."
     },
     {
       "id": 4,
       "name": "Steak",
       "price": "139.00",
       "source": "./images/food-images/menu-4.jpg",
-      "imagename": "product4"
+      "imagename": "This margarine is full of additives – just look at the label!"
     },
     {
       "id": 5,
       "name": "Tuna Steak",
       "price": "78.00",
       "source": "./images/food-images/menu-5.jpg",
-      "imagename": "product5"
+      "imagename": "Yogurt is usually very low in fat."
     },
     {
       "id": 6,
@@ -47,28 +47,28 @@
       "name": "Salad",
       "price": "89.00",
       "source": "./images/food-images/menu-7.jpg",
-      "imagename": "product7"
+      "imagename": "I like cottage cheese with fruit."
     },
     {
       "id": 8,
       "name": "Drink",
       "price": "61.00",
       "source": "./images/food-images/menu-8.jpg",
-      "imagename": "product8"
+      "imagename": "Ice cream is popular among children."
     },
     {
       "id": 9,
       "name": "Shrimp",
       "price": "123.00",
       "source": "./images/food-images/menu-9.jpg",
-      "imagename": "product9"
+      "imagename": "She skimmed the milk of its cream."
     },
     {
       "id": 10,
       "name": "Pizza",
       "price": "130.00",
       "source": "./images/food-images/menu-4.jpg",
-      "imagename": "product10"
+      "imagename": "I usually have a sandwich for lunch."
     },
     {
       "id": 11,
@@ -82,28 +82,28 @@
       "name": "Bread",
       "price": "120.00",
       "source": "./images/food-images/menu-6.jpg",
-      "imagename": "product12"
+      "imagename": "She sliced off a piece of sausage."
     },
     {
       "id": 13,
       "name": "Steak",
       "price": "70.00",
       "source": "./images/food-images/menu-7.jpg",
-      "imagename": "product13"
+      "imagename": "I’d like a hamburger and an iced tea."
     },
     {
       "id": 14,
       "name": "Tuna Steak",
       "price": "92.00",
       "source": "./images/food-images/menu-8.jpg",
-      "imagename": "product14"
+      "imagename": "He bought a hot dog and had it covered with all the fixings."
     },
     {
       "id": 15,
       "name": "Shrimp",
       "price": "60.00",
       "source": "./images/food-images/menu-9.jpg",
-      "imagename": "product15"
+      "imagename": "She took up a slice of bread, broke it nervously, then put it aside"
     }
   ]
 }
